@@ -1,0 +1,24 @@
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\CircularProgressBar.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Release\PlayerUI.csprojAssemblyReference.cache
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Release\PlayerUI.Form1.resources
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Release\PlayerUI.Form2.resources
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Release\PlayerUI.Properties.Resources.resources
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Release\PlayerUI.csproj.GenerateResource.cache
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Release\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Release\PlayerUI.csproj.CopyComplete
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Release\PlayerUI.Form3.resources
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\PDF Threat Analyzer.exe.config
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\PDF Threat Analyzer.exe
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\PDF Threat Analyzer.pdb
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\IronPython.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\IronPython.Modules.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\IronPython.SQLite.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\IronPython.Wpf.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\Microsoft.Dynamic.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\Microsoft.Scripting.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\Microsoft.Scripting.Metadata.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\Renci.SshNet.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Release\SautinSoft.Document.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Release\PlayerUI.csproj.Fody.CopyLocal.cache
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Release\PDF Threat Analyzer.exe
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Release\PDF Threat Analyzer.pdb

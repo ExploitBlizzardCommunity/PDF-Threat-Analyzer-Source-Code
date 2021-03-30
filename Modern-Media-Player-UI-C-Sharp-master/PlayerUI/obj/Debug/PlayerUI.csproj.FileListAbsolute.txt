@@ -1,0 +1,47 @@
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csprojResolveAssemblyReference.cache
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.Cache
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.pdb
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\CircularProgressBar.dll
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\WinFormAnimation.dll
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\CircularProgressBar.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\SautinSoft.Document.dll
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\SautinSoft.Document.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\IronPython.dll
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\IronPython.Modules.dll
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\IronPython.SQLite.dll
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\IronPython.Wpf.dll
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\Microsoft.Scripting.dll
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\IronPython.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\IronPython.Modules.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\IronPython.SQLite.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\IronPython.Wpf.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\Microsoft.Scripting.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\NISHANT\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\ChilkatDotNet45.dll
